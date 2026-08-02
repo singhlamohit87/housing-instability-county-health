@@ -1,0 +1,4 @@
+outcome,rf_r2,rf_rmse,n_train,n_test
+Premature Death Rate (YPLL per 100k),0.9621,648.5247,65052,24399
+Poor Mental Health Days (avg/month),0.9316,0.1546,66576,24966
+Preventable Hospital Stays (per 100k),0.794,496.3061,66288,24858

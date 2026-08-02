@@ -1,0 +1,4 @@
+outcome,partial_rho_housing_controlling_poverty,p_value,n
+Premature Death Rate (YPLL per 100k),-0.128,4.304826611926197e-95,25902
+Poor Mental Health Days (avg/month),0.0461,1.4146430192636061e-14,27804
+Preventable Hospital Stays (per 100k),-0.0927,2.494403795018766e-53,27414

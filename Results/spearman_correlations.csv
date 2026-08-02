@@ -1,0 +1,10 @@
+outcome,predictor,spearman_rho,ci_95_lo,ci_95_hi,p_value,n
+Premature Death Rate (YPLL per 100k),Housing Instability,0.1212,0.1084,0.1336,2.0827459622240595e-85,25902
+Premature Death Rate (YPLL per 100k),Child Poverty,0.8186,0.8138,0.8229,0.0,25902
+Premature Death Rate (YPLL per 100k),Unemployment,0.399,0.3879,0.409,0.0,25902
+Poor Mental Health Days (avg/month),Housing Instability,0.1793,0.1672,0.1901,1.8243990797549952e-199,27804
+Poor Mental Health Days (avg/month),Child Poverty,0.6124,0.6044,0.6201,0.0,27804
+Poor Mental Health Days (avg/month),Unemployment,0.4312,0.4216,0.4411,0.0,27804
+Preventable Hospital Stays (per 100k),Housing Instability,0.0045,-0.0087,0.0159,0.45268900640740206,27414
+Preventable Hospital Stays (per 100k),Child Poverty,0.3712,0.3611,0.3815,0.0,27414
+Preventable Hospital Stays (per 100k),Unemployment,0.1896,0.1773,0.2016,2.4946071115135682e-220,27414
